@@ -1,6 +1,6 @@
 package Exercises.Exercise5;
 
-public class Exercise5 {
+public class Final {
 
     // declaring a public variable as a constant so that we can use also in other places.
     // another reason for using final - when we create constants.

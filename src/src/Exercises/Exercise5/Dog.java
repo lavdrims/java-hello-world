@@ -9,7 +9,7 @@ public class Dog extends Animal {
 
     // overriding the eat method from parent class.
     public void eat() {
-        System.out.println("num num num" + " " + Exercise5.PI);
+        System.out.println("num num num" + " " + Final.PI);
     }
 
     public  int getWalkDistancePreference() {

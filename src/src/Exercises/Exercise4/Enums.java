@@ -1,6 +1,6 @@
 package Exercises.Exercise4;
 
-public class Exercise4 {
+public class Enums {
     public static void main(String[] args) {
 
         DaysOfTheWeek day = DaysOfTheWeek.THURSDAY;

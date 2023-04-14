@@ -1,6 +1,6 @@
 package Exercises.Exercise3;
 
-public class Exercise3 {
+public class Constructors {
     public static void main(String[] args) {
 
         // this class has a defined constructor and should be used always with the arguments defined in its construcor, name and age.
