@@ -1,7 +1,8 @@
 package Exercises.Exercise01;
 
 public class Exercise1 {
-    public static void main(String[] args) {
+
+    public void main(String[] args) {
         printMyName("Lavdrim");
 
         for (int i = 0; i <= 5; i++) {
@@ -16,7 +17,7 @@ public class Exercise1 {
         System.out.println("My name is " + name);
     }
 
-    private static String returnMyName(String name, int number) {
+    public String returnMyName(String name, int number) {
         if (number == 2) {
             return ("\n" + "My name is not John.");
         } else if (number != 4 || number == 3) {

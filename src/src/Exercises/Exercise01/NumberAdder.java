@@ -7,7 +7,6 @@ public class NumberAdder {
         int num2 = 3;
 
         int total = num1 + num2;
-
         System.out.println("Total: " + total);
     }
 }
